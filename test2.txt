@@ -1,0 +1,156 @@
+try0
+05:13:29:011 depress
+05:13:29:088 mediumRepeat
+05:13:29:088 release
+wrong index
+no hardRepeat
+fail
+try1
+05:13:29:239 depress
+05:13:30:057 mediumRepeat
+05:13:30:307 mediumRepeat
+05:13:30:459 mediumRepeat
+05:13:31:493 hardRepeat
+05:13:32:210 hardRepeat
+05:13:32:539 hardRepeat
+05:13:32:869 hardRepeat
+05:13:33:188 hardRepeat
+05:13:33:501 hardRepeat
+05:13:33:662 hardRepeat
+05:13:33:728 release
+wrong index
+yes hardRepeat
+no preview
+fail
+try2
+05:13:33:832 depress
+05:13:33:985 mediumRepeat
+05:13:33:985 release
+wrong index
+no hardRepeat
+fail
+try3
+05:13:34:065 depress
+05:13:34:129 mediumRepeat
+05:13:34:208 release
+wrong index
+no hardRepeat
+fail
+try4
+05:13:34:317 depress
+05:13:34:386 hardRepeat
+05:13:34:386 release
+wrong index
+yes hardRepeat
+no preview
+fail
+try5
+05:13:34:469 depress
+05:13:34:545 hardRepeat
+05:13:34:545 release
+wrong index
+yes hardRepeat
+no preview
+fail
+try6
+05:13:34:609 depress
+05:13:34:687 mediumRepeat
+05:13:34:792 release
+wrong index
+no hardRepeat
+fail
+try7
+05:13:34:856 depress
+05:13:34:928 mediumRepeat
+05:13:34:928 release
+wrong index
+no hardRepeat
+fail
+try8
+05:13:35:014 depress
+05:13:35:122 mediumRepeat
+05:13:35:122 release
+wrong index
+no hardRepeat
+fail
+try9
+05:13:35:177 depress
+05:13:35:265 mediumRepeat
+05:13:35:265 release
+wrong index
+no hardRepeat
+fail
+try10
+05:13:35:333 depress
+05:13:35:415 hardRepeat
+05:13:35:415 release
+wrong index
+yes hardRepeat
+no preview
+fail
+try11
+05:13:36:378 depress
+05:13:36:608 mediumRepeat
+05:13:36:856 mediumRepeat
+05:13:37:101 mediumRepeat
+05:13:37:491 mediumRepeat
+05:13:37:753 release
+wrong index
+no hardRepeat
+fail
+try12
+05:13:38:332 depress
+05:13:38:413 mediumRepeat
+05:13:38:413 release
+wrong index
+no hardRepeat
+fail
+try13
+05:13:38:482 depress
+05:13:38:554 mediumRepeat
+05:13:38:554 release
+wrong index
+no hardRepeat
+fail
+try14
+05:13:38:664 depress
+05:13:38:739 mediumRepeat
+05:13:38:739 release
+wrong index
+no hardRepeat
+fail
+try15
+05:13:38:831 depress
+05:13:39:041 mediumRepeat
+05:13:39:041 release
+wrong index
+no hardRepeat
+fail
+try16
+05:13:39:124 depress
+05:13:39:179 mediumRepeat
+05:13:39:179 release
+wrong index
+no hardRepeat
+fail
+try17
+05:13:39:256 depress
+05:13:39:366 mediumRepeat
+05:13:39:366 release
+wrong index
+no hardRepeat
+fail
+try18
+05:13:39:412 depress
+05:13:39:542 mediumRepeat
+05:13:39:605 release
+wrong index
+no hardRepeat
+fail
+try19
+05:13:39:690 depress
+05:13:39:768 mediumRepeat
+05:13:39:768 release
+wrong index
+no hardRepeat
+fail

@@ -1,0 +1,8 @@
+E:\Users\block\Documents\Visual Studio 2008\Projects\UIST Student Contest\PSKPlayground\bin\Debug\PSKPlayground.exe
+E:\Users\block\Documents\Visual Studio 2008\Projects\UIST Student Contest\PSKPlayground\bin\Debug\PSKPlayground.pdb
+E:\Users\block\Documents\Visual Studio 2008\Projects\UIST Student Contest\PSKPlayground\bin\Debug\PskLibrary.dll
+E:\Users\block\Documents\Visual Studio 2008\Projects\UIST Student Contest\PSKPlayground\obj\Debug\ResolveAssemblyReference.cache
+E:\Users\block\Documents\Visual Studio 2008\Projects\UIST Student Contest\PSKPlayground\obj\Debug\PSKPlayground.Properties.Resources.resources
+E:\Users\block\Documents\Visual Studio 2008\Projects\UIST Student Contest\PSKPlayground\obj\Debug\PSKPlayground.csproj.GenerateResource.Cache
+E:\Users\block\Documents\Visual Studio 2008\Projects\UIST Student Contest\PSKPlayground\obj\Debug\PSKPlayground.exe
+E:\Users\block\Documents\Visual Studio 2008\Projects\UIST Student Contest\PSKPlayground\obj\Debug\PSKPlayground.pdb

@@ -1,0 +1,185 @@
+try0
+10:14:30:726 depress
+10:14:32:238 hardRepeat
+10:14:33:363 release
+wrong index
+yes hardRepeat
+no preview
+fail
+try1
+10:14:34:654 depress
+10:14:35:686 mediumRepeat
+10:14:36:723 release
+wrong index
+no hardRepeat
+fail
+try2
+10:14:40:246 depress
+10:14:41:920 mediumRepeat
+10:14:42:333 mediumRepeat
+10:14:43:278 previewStarted
+10:14:43:773 mediumRepeat
+10:14:44:560 mediumRepeat
+10:14:45:280 mediumRepeat
+10:14:45:933 mediumRepeat
+10:14:46:558 mediumRepeat
+10:14:47:045 release
+correct index
+no hardRepeat
+fail
+try3
+10:14:51:760 depress
+10:14:52:558 mediumRepeat
+10:14:53:522 previewStarted
+10:14:54:560 mediumRepeat
+10:14:54:812 mediumRepeat
+10:14:55:758 previewStarted
+10:14:55:846 mediumRepeat
+10:14:56:078 mediumRepeat
+10:14:56:239 mediumRepeat
+10:14:56:638 mediumRepeat
+10:14:56:812 mediumRepeat
+10:14:57:772 previewStarted
+10:14:57:998 mediumRepeat
+10:14:58:638 mediumRepeat
+10:14:59:282 mediumRepeat
+10:14:59:612 mediumRepeat
+10:14:59:918 mediumRepeat
+10:15:00:242 mediumRepeat
+10:15:00:572 mediumRepeat
+10:15:00:892 mediumRepeat
+10:15:01:198 mediumRepeat
+10:15:02:160 previewStarted
+10:15:04:720 hardRepeat
+10:15:04:720 release
+success
+try4
+10:15:50:884 depress
+10:15:51:774 mediumRepeat
+10:15:52:720 mediumRepeat
+10:15:53:688 previewStarted
+10:15:54:808 hardRepeat
+10:15:54:808 release
+wrong index
+fail
+try5
+10:16:42:294 depress
+10:16:43:022 mediumRepeat
+10:16:43:982 previewStarted
+10:16:45:018 hardRepeat
+10:16:45:018 release
+wrong index
+fail
+try6
+10:17:27:586 depress
+10:17:28:212 mediumRepeat
+10:17:29:172 previewStarted
+10:17:30:060 hardRepeat
+10:17:30:138 release
+wrong index
+fail
+try7
+10:18:25:151 depress
+10:18:26:829 mediumRepeat
+10:18:27:548 mediumRepeat
+10:18:28:502 previewStarted
+10:18:29:542 hardRepeat
+10:18:29:542 release
+wrong index
+fail
+try8
+10:19:01:656 depress
+10:19:02:534 mediumRepeat
+10:19:03:494 previewStarted
+10:19:06:614 hardRepeat
+10:19:06:614 release
+wrong index
+fail
+try9
+10:21:32:618 depress
+10:21:33:338 mediumRepeat
+10:21:34:298 previewStarted
+10:21:34:542 hardRepeat
+10:21:34:542 release
+wrong index
+fail
+try10
+10:23:16:368 depress
+10:23:17:568 mediumRepeat
+10:23:18:528 previewStarted
+10:23:19:496 hardRepeat
+10:23:19:496 release
+wrong index
+fail
+try11
+10:23:24:776 depress
+10:23:25:888 mediumRepeat
+10:23:26:608 mediumRepeat
+10:23:27:568 previewStarted
+10:23:27:657 hardRepeat
+10:23:27:657 release
+wrong index
+fail
+try12
+10:23:32:368 depress
+10:23:33:408 mediumRepeat
+10:23:33:808 mediumRepeat
+10:23:34:128 mediumRepeat
+10:23:35:010 hardRepeat
+10:23:35:010 release
+wrong index
+yes hardRepeat
+no preview
+fail
+try13
+10:23:35:568 depress
+10:23:35:729 mediumRepeat
+10:23:36:056 release
+wrong index
+no hardRepeat
+fail
+try14
+10:23:36:128 depress
+10:23:36:450 mediumRepeat
+10:23:36:530 release
+wrong index
+no hardRepeat
+fail
+try15
+10:23:37:008 depress
+10:23:38:368 mediumRepeat
+10:23:38:368 release
+wrong index
+no hardRepeat
+fail
+try16
+10:23:39:168 depress
+10:23:40:368 mediumRepeat
+10:23:40:528 mediumRepeat
+10:23:40:689 mediumRepeat
+10:23:41:650 previewStarted
+10:23:42:848 hardRepeat
+10:23:42:928 release
+wrong index
+fail
+try17
+10:23:46:616 depress
+10:23:47:008 mediumRepeat
+10:23:47:008 release
+wrong index
+no hardRepeat
+fail
+try18
+10:23:47:168 depress
+10:23:49:256 mediumRepeat
+10:23:50:216 previewStarted
+10:23:52:137 hardRepeat
+10:23:52:210 release
+wrong index
+fail
+try19
+10:24:32:534 depress
+10:24:35:730 hardRepeat
+10:24:35:817 release
+wrong index
+fail

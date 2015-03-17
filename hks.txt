@@ -1,0 +1,88 @@
+try0
+10:08:29:771 depress
+10:08:30:309 mediumRepeat
+10:08:30:535 mediumRepeat
+10:08:30:711 mediumRepeat
+10:08:30:855 mediumRepeat
+10:08:31:102 mediumRepeat
+10:08:31:421 mediumRepeat
+10:08:32:621 mediumRepeat
+10:08:33:112 mediumRepeat
+10:08:33:911 mediumRepeat
+10:08:34:152 mediumRepeat
+10:08:34:935 mediumRepeat
+10:08:35:179 mediumRepeat
+10:08:35:419 mediumRepeat
+10:08:35:659 mediumRepeat
+10:08:35:907 mediumRepeat
+10:08:36:151 mediumRepeat
+10:08:36:545 mediumRepeat
+10:08:38:479 previewStarted
+10:08:42:541 hardRepeat
+10:08:42:615 release
+success
+try1
+10:08:50:055 depress
+10:08:50:619 mediumRepeat
+10:08:50:863 mediumRepeat
+10:08:51:111 mediumRepeat
+10:08:51:255 mediumRepeat
+10:08:51:499 mediumRepeat
+10:08:51:667 mediumRepeat
+10:08:51:909 mediumRepeat
+10:08:52:135 mediumRepeat
+10:08:52:307 mediumRepeat
+10:08:52:548 mediumRepeat
+10:08:53:015 mediumRepeat
+10:08:53:183 mediumRepeat
+10:08:53:359 mediumRepeat
+10:08:53:581 mediumRepeat
+10:08:53:749 mediumRepeat
+10:08:53:975 mediumRepeat
+10:08:54:462 mediumRepeat
+10:08:54:704 mediumRepeat
+10:08:55:095 mediumRepeat
+10:08:55:337 mediumRepeat
+10:08:55:513 mediumRepeat
+10:08:55:757 mediumRepeat
+10:08:55:899 mediumRepeat
+10:08:56:075 mediumRepeat
+10:08:56:232 mediumRepeat
+10:08:56:462 mediumRepeat
+10:08:56:632 mediumRepeat
+10:08:56:779 mediumRepeat
+10:08:57:029 mediumRepeat
+10:08:57:182 mediumRepeat
+10:08:57:335 mediumRepeat
+10:08:57:503 mediumRepeat
+10:08:57:677 mediumRepeat
+10:08:57:903 mediumRepeat
+10:08:58:142 mediumRepeat
+10:08:58:876 mediumRepeat
+10:08:59:028 mediumRepeat
+10:08:59:273 mediumRepeat
+10:08:59:417 mediumRepeat
+10:08:59:595 mediumRepeat
+10:08:59:749 mediumRepeat
+10:08:59:993 mediumRepeat
+10:09:00:381 mediumRepeat
+10:09:00:702 mediumRepeat
+10:09:02:643 previewStarted
+10:09:03:767 hardRepeat
+10:09:03:767 release
+wrong index
+fail
+try2
+10:09:08:331 depress
+10:09:08:409 mediumRepeat
+10:09:08:409 release
+wrong index
+no hardRepeat
+fail
+try3
+10:09:10:965 depress
+10:09:11:852 mediumRepeat
+10:09:11:852 release
+wrong index
+no hardRepeat
+fail

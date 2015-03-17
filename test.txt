@@ -1,0 +1,100 @@
+try0
+try0
+09:24:11:882 depress 0 0
+09:24:11:882 depress 0 0
+try0
+try0
+09:24:11:882 depress 0 0
+09:24:11:882 depress 0 0
+try0
+try0
+09:24:11:882 depress 0 0
+09:24:11:882 depress 0 0
+try0
+try0
+09:24:11:882 depress 0 0
+09:24:11:882 depress 0 0
+09:24:12:622 hardRepeat 740 0
+09:24:12:622 hardRepeat 740 0
+09:24:12:622 hardRepeat 0 0
+09:24:12:622 hardRepeat 0 0
+09:24:12:622 release 0 0
+correct index
+yes hardRepeat
+no preview
+fail
+09:24:12:622 release 0 0
+wrong index
+no hardRepeat
+fail
+09:24:12:622 release 0 0
+wrong index
+no hardRepeat
+fail
+09:24:12:622 release 0 0
+wrong index
+no hardRepeat
+fail
+09:24:12:622 hardRepeat 0 0
+09:24:12:622 hardRepeat 0 0
+09:24:12:622 hardRepeat 0 0
+09:24:12:622 hardRepeat 0 0
+09:24:12:622 release 0 0
+wrong index
+yes hardRepeat
+no preview
+fail
+09:24:12:622 release 0 0
+wrong index
+no hardRepeat
+fail
+try0
+try0
+09:24:11:882 depress 0 0
+09:24:11:882 depress 0 0
+try0
+try0
+09:24:11:882 depress 0 0
+09:24:11:882 depress 0 0
+try0
+try0
+09:24:11:882 depress 0 0
+09:24:11:882 depress 0 0
+try0
+try0
+09:24:11:882 depress 0 0
+09:24:11:882 depress 0 0
+09:24:12:622 hardRepeat 740 0
+09:24:12:622 hardRepeat 740 0
+09:24:12:622 hardRepeat 0 0
+09:24:12:622 hardRepeat 0 0
+09:24:12:622 release 0 0
+correct index
+yes hardRepeat
+no preview
+fail
+09:24:12:622 release 0 0
+wrong index
+no hardRepeat
+fail
+09:24:12:622 release 0 0
+wrong index
+no hardRepeat
+fail
+09:24:12:622 release 0 0
+wrong index
+no hardRepeat
+fail
+09:24:12:622 hardRepeat 0 0
+09:24:12:622 hardRepeat 0 0
+09:24:12:622 hardRepeat 0 0
+09:24:12:622 hardRepeat 0 0
+09:24:12:622 release 0 0
+wrong index
+yes hardRepeat
+no preview
+fail
+09:24:12:622 release 0 0
+wrong index
+no hardRepeat
+fail

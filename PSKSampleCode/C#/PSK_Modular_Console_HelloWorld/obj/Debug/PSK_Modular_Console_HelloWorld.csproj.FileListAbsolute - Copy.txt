@@ -1,0 +1,16 @@
+C:\Users\beeidels\Documents\Visual Studio 2008\Projects\PSK_Modular_Console_HelloWorld\PSK_Modular_Console_HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\beeidels\Documents\Visual Studio 2008\Projects\PSK_Modular_Console_HelloWorld\PSK_Modular_Console_HelloWorld\obj\Debug\PSK_Modular_Console_HelloWorld.g.resources
+C:\Users\beeidels\Documents\Visual Studio 2008\Projects\PSK_Modular_Console_HelloWorld\PSK_Modular_Console_HelloWorld\bin\Debug\PSK_Modular_Console_HelloWorld.exe
+C:\Users\beeidels\Documents\Visual Studio 2008\Projects\PSK_Modular_Console_HelloWorld\PSK_Modular_Console_HelloWorld\bin\Debug\PSK_Modular_Console_HelloWorld.pdb
+C:\Users\beeidels\Documents\Visual Studio 2008\Projects\PSK_Modular_Console_HelloWorld\PSK_Modular_Console_HelloWorld\obj\Debug\PSK_Modular_Console_HelloWorld.exe
+C:\Users\beeidels\Documents\Visual Studio 2008\Projects\PSK_Modular_Console_HelloWorld\PSK_Modular_Console_HelloWorld\obj\Debug\PSK_Modular_Console_HelloWorld.pdb
+C:\Users\beeidels\Documents\Projects\PressureKeys\PSK_HelloWorld\PSK_Modular_Console_HelloWorld\obj\Debug\PSK_Modular_Console_HelloWorld.exe
+C:\Users\beeidels\Documents\Projects\PressureKeys\PSK_HelloWorld\PSK_Modular_Console_HelloWorld\obj\Debug\PSK_Modular_Console_HelloWorld.pdb
+C:\Users\beeidels\Documents\Projects\PressureKeys\PSK_HelloWorld\PSK_Modular_Console_HelloWorld\bin\Debug\PSK_Modular_Console_HelloWorld.exe
+C:\Users\beeidels\Documents\Projects\PressureKeys\PSK_HelloWorld\PSK_Modular_Console_HelloWorld\bin\Debug\PSK_Modular_Console_HelloWorld.pdb
+C:\Users\beeidels\Documents\Projects\PressureKeys\PSK_HelloWorld\PSK_Modular_Console_HelloWorld\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\beeidels\Documents\Projects\PressureKeys\PSK_HelloWorld\PSK_Modular_Console_HelloWorld\obj\Debug\PSK_Modular_Console_HelloWorld.g.resources
+C:\Users\beeidels\Documents\Projects\PressureKeys\PSK_HelloWorld_Logging\PSK_Modular_Console_HelloWorld\obj\Debug\PSK_Modular_Console_HelloWorld.exe
+C:\Users\beeidels\Documents\Projects\PressureKeys\PSK_HelloWorld_Logging\PSK_Modular_Console_HelloWorld\obj\Debug\PSK_Modular_Console_HelloWorld.pdb
+C:\Users\beeidels\Documents\Projects\PressureKeys\PSK_Codebox\PSK_Modular_Console_HelloWorld\obj\Debug\PSK_Modular_Console_HelloWorld.exe
+C:\Users\beeidels\Documents\Projects\PressureKeys\PSK_Codebox\PSK_Modular_Console_HelloWorld\obj\Debug\PSK_Modular_Console_HelloWorld.pdb

@@ -1,0 +1,2 @@
+"0 19", "Copies the selected object";
+"0 25", "Pastes the copied object";

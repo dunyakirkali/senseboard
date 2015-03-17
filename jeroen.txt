@@ -1,0 +1,47 @@
+try0
+09:57:48:761 depress
+09:57:49:563 mediumRepeat
+09:57:49:803 mediumRepeat
+09:57:49:975 mediumRepeat
+09:57:50:285 mediumRepeat
+09:57:52:298 previewStarted
+09:57:53:403 mediumRepeat
+09:57:53:645 mediumRepeat
+09:57:53:891 mediumRepeat
+09:57:55:887 previewStarted
+09:57:57:083 hardRepeat
+09:57:57:247 release
+success
+try1
+09:58:02:847 depress
+09:58:03:895 mediumRepeat
+09:58:04:043 mediumRepeat
+09:58:04:211 mediumRepeat
+09:58:04:455 mediumRepeat
+09:58:04:605 mediumRepeat
+09:58:04:847 mediumRepeat
+09:58:05:016 mediumRepeat
+09:58:07:017 previewStarted
+09:58:07:889 mediumRepeat
+09:58:08:133 mediumRepeat
+09:58:08:283 mediumRepeat
+09:58:08:523 mediumRepeat
+09:58:08:681 mediumRepeat
+09:58:08:928 mediumRepeat
+09:58:09:107 mediumRepeat
+09:58:09:245 mediumRepeat
+09:58:09:493 mediumRepeat
+09:58:09:735 mediumRepeat
+09:58:10:523 hardRepeat
+09:58:10:523 release
+correct index
+yes hardRepeat
+no preview
+fail
+try2
+09:58:16:603 depress
+09:58:16:691 mediumRepeat
+09:58:16:691 release
+wrong index
+no hardRepeat
+fail
